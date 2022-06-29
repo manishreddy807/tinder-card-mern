@@ -1,0 +1,35 @@
+.swipe-btns{
+    position: fixed;
+	bottom: 10vh;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.swipe-btns .icon-style{
+    background: white;
+	box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
+	padding: 1vw !important;
+}
+
+.swipe-btn-replay{
+    color: #f5b748 !important;
+}
+
+.swipe-btn-left{
+    color: #ec5e6f !important;
+}
+
+.swipe-btn-star{
+    color: #62b4f9 !important;
+}
+
+.swipe-btn-right{
+    color: #915dd1 !important;
+}
+
+.swipe-btn-lightning{
+    color: #76e2b3 !important;
+}
