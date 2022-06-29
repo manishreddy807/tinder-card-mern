@@ -1,6 +1,6 @@
 const mongoose = require("mongoose")
 
-const mongoDB= mongoose.connect('mongodb+srv://manishReddy:manish%40123@cluster0.xnkhp.mongodb.net/?retryWrites=true&w=majority', {
+const mongoDB= mongoose.connect('', {
     useUnifiedTopology: true,
     useNewUrlParser: true,
 
